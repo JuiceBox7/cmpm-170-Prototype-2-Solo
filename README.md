@@ -1,2 +1,1 @@
-# cmpm-170-Prototype-2-Solo
-A prototype for cmpm 170
+# Solo prototype for CMPM 170
