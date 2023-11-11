@@ -1,5 +1,5 @@
 ## Solo prototype for CMPM 170
-A one button game prototype.
+A one button game prototype for class at UCSC.
 
 # Prototype description
 An arcade style platform shooter.  
