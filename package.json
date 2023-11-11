@@ -12,7 +12,7 @@
   "main": "docs/bundle.js",
   "typings": "docs/bundle.d.ts",
   "scripts": {
-    "watch_games": "light-server -s docs -w \"docs/**/* # # reload\"",
+    "watch_games": "light-server -o -s docs -w \"docs/**/* # # reload\"",
     "watch_lib": "rollup -c -w --bundleConfigAsCjs",
     "generate_reference": "typedoc src/main.ts --out ./docs/ref_document/"
   },
